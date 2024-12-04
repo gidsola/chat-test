@@ -8,6 +8,7 @@ You will need your own Mistral AI key for the AI functionality. Currently, other
 
 ## Configuration
 
+You can have all normal parameters aside from stream and safe-prompt, These are overidden server-side.
 Configuration settings can be found in the `ciDialogExchange.mjs` file. Below is an example configuration:
 
 ```javascript
